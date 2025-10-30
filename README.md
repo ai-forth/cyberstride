@@ -1,6 +1,6 @@
 ## cyberstride
 
-A. Stafford [Beer](https://en.wikipedia.org/wiki/Stafford_Beer)'s software control system for modern viable systems.
+A. Stafford [Beer](https://en.wikipedia.org/wiki/Stafford_Beer)'s control system for modern viable systems.
 
 ## Background
 

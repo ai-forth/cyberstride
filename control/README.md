@@ -1,6 +1,6 @@
-## Correlating *Decision and Control* (Stafford Beer, 1966) with *The Living Brain* (Ross Ashby, 2nd ed., 1972)
+## Correlating *Decision and Control* (1966) with Ross Ashby's *The Living Brain* (1961)
 
-Both books are foundational texts in cybernetics, but they apply the discipline to different domains—human‑made organisations versus biological neural tissue. Below is a side‑by‑side markdown rendering that you can paste straight onto a GitHub page.
+Both books are foundational texts in cybernetics, but they apply the discipline to different domains—human‑made organisations versus biological neural tissue, or even [synthetic](https://www.nature.com/articles/s41580-023-00686-9) biological systems.
 
 ## 1. Core Thesis
 
@@ -77,9 +77,9 @@ Both authors foreground this principle:
 - **Recursive Teams** – Design each department as a mini‑VSM, but allow intra‑team feedback loops to evolve organically (e.g., self‑selected scrum masters) rather than imposing a rigid hierarchy.
 - **Variety Budgeting** – Quantify the variety of market disturbances (product demand shifts, regulatory changes) and allocate variety resources (cross‑trained staff, modular processes) accordingly—an explicit application of the Law of Requisite Variety.
 
-## 9. Bottom Line
+## 9. Correlation Conclusion
 
-Beer gives you a blueprint for constructing viable, controllable organisations.  
-Ashby supplies the theoretical justification that such a blueprint works, and shows how distributed, emergent mechanisms can achieve the same ends without a single commander.  
+* Beer gives you a blueprint for constructing viable, controllable organisations.  
+* Ashby supplies the theoretical justification that such a blueprint works, and shows how distributed, emergent mechanisms can achieve the same ends without a single commander.  
 
 Overlaying the two yields a **hybrid cybernetic model**: a structured hierarchy that deliberately leaves pockets of autonomy for self‑organising adaptation. That combination is precisely what modern, resilient enterprises—and even sophisticated AI‑driven platforms—need to thrive in today’s volatile environment.

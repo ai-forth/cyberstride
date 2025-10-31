@@ -2,6 +2,11 @@
 
 A. Stafford [Beer](https://en.wikipedia.org/wiki/Stafford_Beer)'s control system for modern viable systems.
 
+## Repo Index
+
+* Brief [description](/decision/README.md) of Beer's _Decision and Control_.
+* Correlation [between](/control/README.md) _Decision and Control_ and Ross Ashby's _The Living Brain_.
+
 ## Background
 
 Chile's CORFO (National Development Corporation) had been since the late 1930s responsible for a strategic State owned industry, controlling among others the oil, electricity, steel, and forestry industries. In 1970, the new government wanted to add to these industries medium-sized enterprises; those producing electro-domestics, electronic products, furniture and so forth. These were strategic industries in the sense of offering a significant leverage to transform consumption patterns in the country. People at CORFO were grappling with this issue before Beer’s arrival to Chile. At his arrival, in November 1971, Beer proposed focusing on the cybernetics of the industrial economy, that is, on the communications and regulation of this exceedingly complex system. He had articulated this cybernetics in _Decision and Control_ (1966), the book that introduced several of us into his work in the late 1960s. This time, additionally, he had with him the manuscript of his yet unpublished book Brain of the Firm, the first of a trilogy about the `Viable System Model`; soon the project’s core group of a dozen was immersed.
